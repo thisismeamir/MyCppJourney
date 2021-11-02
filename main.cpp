@@ -6,17 +6,24 @@ using namespace std;
 
 int main()
 {
+    //Madlibz
+    string color, pnoun, cele;
 
-    // vars
-    double  number1, number2;
+    cout << "enter a color: ";
+    getline(cin,color);
 
-    cout << "Enter the first number: ";
-    cin  >> number1;
+    cout << "enter a plural noun: ";
+    getline(cin,pnoun);
 
-    cout << "Enter the second number: ";
-    cin  >> number2;
+    cout << "enter a celebrity: ";
+    getline(cin,cele);
 
-    cout << number1 + number2 << endl;
+
+    cout << "Roses are " << color << endl;
+    cout << pnoun << " are blue" <<endl;
+    cout << "I love " << cele <<endl;
+
+
 
     return 0;
 }
