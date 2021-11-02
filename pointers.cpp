@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+int pointers()
 {
     // pointers
     int age = 19;
@@ -25,4 +25,5 @@ int main()
     cout << *pAge <<endl;
     return 0;
 }
+
 
