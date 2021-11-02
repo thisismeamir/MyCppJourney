@@ -1,28 +1,40 @@
 #include <iostream>
+#include <string>
+#include <vector>
+#include <ctime>
+#include <numeric>
+#include <math.h>
 #include <cmath>
 
 
 using namespace std;
 
+class Animal {
+private:
+    std::string name;
+    double height;
+    double weight;
+
+    static int numOfAnimals;
+
+public:
+    std::string GetName(){return name;}
+    void SetName(std::string name){this ->name = name;}
+    double Getheight(){return height;}
+    void SetHeight(double height){this->height = height;}
+
+
+
+
+
+};
+
+
+
 int main()
 {
-    // pointers
-    int age = 19;
-    double gpa = 3.3;
-    string name= "Mike";
+    // OOP
 
-    cout << &age;
-
-    // storing memory addresses
-    int *pAge = &age;
-    double *pGpa = &gpa;
-    string *pName = &name;
-
-    // memory address
-    cout << pAge <<endl;
-    //dereferencing
-
-    cout << *pAge <<endl;
     return 0;
 }
 
