@@ -16,6 +16,10 @@ int main()
     // Data types
     char grade = 'A';
     string phrase = "Hello, I am Amir!";
-    int
+    int age = 52;
+    double gpa = 2.3;
+    bool yes = true;
+    bool no  = false;
+
     return 0;
 }
