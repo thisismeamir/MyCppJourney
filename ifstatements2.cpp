@@ -19,7 +19,7 @@ int getmax(int n1,int n2){
     return result;
 
 }
-int main()
+int ifstatements2()
 {
     // Comparisons
 
@@ -31,4 +31,5 @@ int main()
 
     return 0;
 }
+
 
