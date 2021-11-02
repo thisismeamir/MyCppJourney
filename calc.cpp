@@ -1,11 +1,9 @@
 #include <iostream>
 #include <cmath>
 
-
 using namespace std;
 
-int main()
-{
+int calc() {
 
     // vars
     double  number1, number2;
@@ -17,6 +15,5 @@ int main()
     cin  >> number2;
 
     cout << number1 + number2 << endl;
-
     return 0;
 }

@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main(){
+int prints(){
     //Printing and basic Var
     string characterName = "John";
     int characterAge;
