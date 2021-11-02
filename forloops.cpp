@@ -2,11 +2,12 @@
 #include <cmath>
 
 
-
 using namespace std;
 
-int main()
+int forloops()
 {
+
+    //for loops
     string names[] = {"Amir","Sahar","Mohammad"};
 
     for(int i = 0 ; i < 3; i++){
@@ -15,4 +16,3 @@ int main()
     }
     return 0;
 }
-

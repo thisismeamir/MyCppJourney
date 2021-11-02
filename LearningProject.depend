@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1635849848 source:c:\users\thisi\documents\projects\learnings\c++learningcodecamp\learningproject\main.cpp
+1635854394 source:c:\users\thisi\documents\projects\learnings\c++learningcodecamp\learningproject\main.cpp
 	<iostream>
 	<cmath>
 
@@ -32,6 +32,18 @@
 	<cmath>
 
 1635853650 source:c:\users\thisi\documents\projects\learnings\c++learningcodecamp\learningproject\ifstatements2.cpp
+	<iostream>
+	<cmath>
+
+1635854352 source:c:\users\thisi\documents\projects\learnings\c++learningcodecamp\learningproject\switch.cpp
+	<iostream>
+	<cmath>
+
+1635854527 source:c:\users\thisi\documents\projects\learnings\c++learningcodecamp\learningproject\while.cpp
+	<iostream>
+	<cmath>
+
+1635854626 source:c:\users\thisi\documents\projects\learnings\c++learningcodecamp\learningproject\forloops.cpp
 	<iostream>
 	<cmath>
 
