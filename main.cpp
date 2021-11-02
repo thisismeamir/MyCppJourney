@@ -4,26 +4,12 @@
 
 using namespace std;
 
+
 int main()
 {
-    //Madlibz
-    string color, pnoun, cele;
 
-    cout << "enter a color: ";
-    getline(cin,color);
-
-    cout << "enter a plural noun: ";
-    getline(cin,pnoun);
-
-    cout << "enter a celebrity: ";
-    getline(cin,cele);
-
-
-    cout << "Roses are " << color << endl;
-    cout << pnoun << " are blue" <<endl;
-    cout << "I love " << cele <<endl;
-
-
+    // If statements
 
     return 0;
 }
+
