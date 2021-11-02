@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635849074 source:c:\users\thisi\documents\projects\learnings\c++learningcodecamp\learningproject\main.cpp
+	<iostream>
+	<cmath>
+
